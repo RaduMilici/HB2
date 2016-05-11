@@ -1,0 +1,15 @@
+{   
+     "storey_properties":{
+          "elevation": 0,
+          "height": 350
+     },
+     "points": [],
+     "walls": [],
+     "slabs":[],
+     "rooms": [],
+     "windows":[],
+     "doors":[],
+     "HVAC": [],
+     "lights": [],
+     "roofs":[]
+}

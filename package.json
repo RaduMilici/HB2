@@ -1,0 +1,24 @@
+{
+  "name": "hb2",
+  "version": "1.0.0",
+  "description": "house builder extract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaduMilici/HB2.git"
+  },
+  "author": "aeche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaduMilici/HB2/issues"
+  },
+  "homepage": "https://github.com/RaduMilici/HB2#readme",
+  "dependencies": {
+    "requirejs": "^2.2.0",
+    "three": "^0.76.1",
+    "underscore": "^1.8.3"
+  }
+}

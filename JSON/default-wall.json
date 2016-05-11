@@ -1,0 +1,16 @@
+{
+     "a": 0,
+     "b": 1,
+     "t": 35,
+     "h": 350,
+     "material": "brick",
+     "type": "simple",
+     "insideFinish":"stucco_1",
+     "outsideFinish":"brick_1",
+     "uid": 909991,
+     "UVValue":0,
+     "volume":0,
+     "exterior": true,
+     "partyWall": false,
+     "volumeWhitoutCavities":0
+ }

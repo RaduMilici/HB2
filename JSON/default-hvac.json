@@ -1,0 +1,12 @@
+ {
+     "type": "heater",
+     "position": {
+         "x": 0,
+         "y": 0
+     },
+     "w": 90,
+     "d": 90,
+     "rotation": 0,
+     "src": "",
+     "name": "random name"
+ }

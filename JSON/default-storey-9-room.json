@@ -1,0 +1,657 @@
+{
+    "storey_properties": {
+        "elevation": 0,
+        "height": 350
+    },
+    "points": [
+        {
+            "y": -300,
+            "x": -400
+        },
+        {
+            "y": -300,
+            "x": 400
+        },
+        {
+            "y": 300,
+            "x": 400
+        },
+        {
+            "y": 300,
+            "x": -400
+        },
+        {
+            "x": -156.99809148732447,
+            "y": -300
+        },
+        {
+            "y": 300.26499908417463,
+            "x": -156.99809148732493
+        },
+        {
+            "x": -159.99530624150043,
+            "y": 300
+        },
+        {
+            "x": 151.99436915517498,
+            "y": -300
+        },
+        {
+            "y": 300.26499908417463,
+            "x": 151.99436915517435
+        },
+        {
+            "x": 151.99436915517475,
+            "y": 300.1179919034705
+        },
+        {
+            "x": -400,
+            "y": -100.49213188726003
+        },
+        {
+            "y": -100.49213188726026,
+            "x": -156.85723822563523
+        },
+        {
+            "x": -156.99809148732461,
+            "y": -96.49295622138953
+        },
+        {
+            "y": -100.49213188726026,
+            "x": 151.88820464671335
+        },
+        {
+            "x": 151.99436915517478,
+            "y": -101.50407481445262
+        },
+        {
+            "y": -100.49213188726026,
+            "x": 399.71721067280305
+        },
+        {
+            "x": 400,
+            "y": -107.49863943530016
+        },
+        {
+            "x": -400,
+            "y": 98.4984923990558
+        },
+        {
+            "y": 98.49849239905598,
+            "x": -156.85723822563523
+        },
+        {
+            "x": -156.92577096822282,
+            "y": 94.49792349046945
+        },
+        {
+            "y": 98.49849239905598,
+            "x": 151.88820464671335
+        },
+        {
+            "x": 151.94144863571478,
+            "y": 100.49696120049614
+        },
+        {
+            "y": 98.49849239905598,
+            "x": 399.71721067280305
+        },
+        {
+            "x": 399.8570146762615,
+            "y": 97.50120805390853
+        }
+    ],
+    "walls": [
+        {
+            "a": 4,
+            "b": 0,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 949990,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 3,
+            "b": 5,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 939995,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 1,
+            "b": 7,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 919997,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 7,
+            "b": 4,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 979994,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 5,
+            "b": 8,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 959998,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 8,
+            "b": 2,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 989992,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 0,
+            "b": 10,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 9099910,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 11,
+            "b": 10,
+            "t": 25,
+            "h": 350,
+            "material": "brick",
+            "type": "simple",
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "uid": 91199910,
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0
+        },
+        {
+            "a": 11,
+            "b": 4,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 9119994,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 13,
+            "b": 11,
+            "t": 25,
+            "h": 350,
+            "material": "brick",
+            "type": "simple",
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "uid": 91399911,
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0
+        },
+        {
+            "a": 13,
+            "b": 7,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 9139997,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 15,
+            "b": 13,
+            "t": 25,
+            "h": 350,
+            "material": "brick",
+            "type": "simple",
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "uid": 91599913,
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0
+        },
+        {
+            "a": 15,
+            "b": 1,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 9159991,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 10,
+            "b": 17,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 91099917,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 17,
+            "b": 3,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 9179993,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 18,
+            "b": 17,
+            "t": 25,
+            "h": 350,
+            "material": "brick",
+            "type": "simple",
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "uid": 91899917,
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0
+        },
+        {
+            "a": 5,
+            "b": 18,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 9599918,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 18,
+            "b": 11,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 91899911,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 20,
+            "b": 18,
+            "t": 25,
+            "h": 350,
+            "material": "brick",
+            "type": "simple",
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "uid": 92099918,
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0
+        },
+        {
+            "a": 8,
+            "b": 20,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 9899920,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 20,
+            "b": 13,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 92099913,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 22,
+            "b": 20,
+            "t": 25,
+            "h": 350,
+            "material": "brick",
+            "type": "simple",
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "uid": 92299920,
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0
+        },
+        {
+            "a": 2,
+            "b": 22,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 9299922,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 22,
+            "b": 15,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 92299915,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        }
+    ],
+    "slabs": [
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": -387.5,
+                        "y": -287.5
+                    },
+                    {
+                        "x": -169.49,
+                        "y": -287.5
+                    },
+                    {
+                        "x": -169.37,
+                        "y": -112.99
+                    },
+                    {
+                        "x": -387.5,
+                        "y": -112.99
+                    }
+                ]
+            },
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": -144.49,
+                        "y": -287.5
+                    },
+                    {
+                        "x": 139.49,
+                        "y": -287.5
+                    },
+                    {
+                        "x": 139.39,
+                        "y": -112.99
+                    },
+                    {
+                        "x": -144.37,
+                        "y": -112.99
+                    }
+                ]
+            },
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": 164.49,
+                        "y": -287.5
+                    },
+                    {
+                        "x": 387.48,
+                        "y": -287.5
+                    },
+                    {
+                        "x": 387.23,
+                        "y": -112.99
+                    },
+                    {
+                        "x": 164.39,
+                        "y": -112.99
+                    }
+                ]
+            },
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": -387.5,
+                        "y": -87.99
+                    },
+                    {
+                        "x": -169.36,
+                        "y": -87.99
+                    },
+                    {
+                        "x": -169.36,
+                        "y": 86
+                    },
+                    {
+                        "x": -387.5,
+                        "y": 86
+                    }
+                ]
+            },
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": -144.36,
+                        "y": -87.99
+                    },
+                    {
+                        "x": 139.39,
+                        "y": -87.99
+                    },
+                    {
+                        "x": 139.39,
+                        "y": 84.59886785086859
+                    },
+                    {
+                        "x": -144.36,
+                        "y": 86
+                    }
+                ]
+            },
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": 164.39,
+                        "y": -87.99
+                    },
+                    {
+                        "x": 387.22,
+                        "y": -87.99
+                    },
+                    {
+                        "x": 387.22,
+                        "y": 86
+                    },
+                    {
+                        "x": 164.39,
+                        "y": 86
+                    }
+                ]
+            },
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": -387.5,
+                        "y": 111
+                    },
+                    {
+                        "x": -169.37,
+                        "y": 111
+                    },
+                    {
+                        "x": -169.49,
+                        "y": 287.75
+                    },
+                    {
+                        "x": -387.5,
+                        "y": 287.51
+                    }
+                ]
+            },
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": -144.37,
+                        "y": 111
+                    },
+                    {
+                        "x": 139.39,
+                        "y": 111
+                    },
+                    {
+                        "x": 139.49,
+                        "y": 287.76
+                    },
+                    {
+                        "x": -144.49,
+                        "y": 287.76
+                    }
+                ]
+            },
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": 164.39,
+                        "y": 111
+                    },
+                    {
+                        "x": 387.23,
+                        "y": 111
+                    },
+                    {
+                        "x": 387.48,
+                        "y": 287.51
+                    },
+                    {
+                        "x": 164.49,
+                        "y": 287.75
+                    }
+                ]
+            }
+        ],
+    "rooms": [],
+    "windows": [],
+    "doors": [],
+    "HVAC": [],
+    "lights": [],
+    "roofs": []
+}

@@ -1,0 +1,11 @@
+{
+ "Project":{
+    "zoom" : 1,
+    "view_center" : {"x": 0 , "y": 0},
+    "north": 32,
+    "sun": {
+        "azimuth": 130,
+        "intensity": 1
+    }
+ }
+}

@@ -1,0 +1,496 @@
+{
+    "storey_properties": {
+        "elevation": 0,
+        "height": 350
+    },
+    "points": [
+        {
+            "y": -300,
+            "x": -400
+        },
+        {
+            "y": -300,
+            "x": 400
+        },
+        {
+            "y": 300,
+            "x": 400
+        },
+        {
+            "y": 300,
+            "x": -400
+        },
+        {
+            "x": -400,
+            "y": 0.5
+        },
+        {
+            "y": 0.5,
+            "x": 400.2
+        },
+        {
+            "x": 400,
+            "y": -0.5
+        },
+        {
+            "x": -152.5,
+            "y": -300
+        },
+        {
+            "y": 0.5,
+            "x": -152.5
+        },
+        {
+            "x": -157.5,
+            "y": 0.5
+        },
+        {
+            "x": 152.5,
+            "y": -300
+        },
+        {
+            "y": 0.5,
+            "x": 152.5
+        },
+        {
+            "x": 150.5,
+            "y": 0.5
+        },
+        {
+            "y": 300,
+            "x": -152.5
+        },
+        {
+            "x": -149.5,
+            "y": 300
+        },
+        {
+            "y": 300,
+            "x": 152.5
+        },
+        {
+            "x": 146.5,
+            "y": 300
+        }
+    ],
+    "walls": [
+        {
+            "a": 0,
+            "b": 4,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 909994,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 4,
+            "b": 3,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 949993,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 2,
+            "b": 5,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 929995,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 5,
+            "b": 1,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 959991,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 7,
+            "b": 0,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 979990,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 8,
+            "b": 7,
+            "t": 25,
+            "h": 350,
+            "material": "brick",
+            "type": "simple",
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "uid": 989997,
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0
+        },
+        {
+            "a": 8,
+            "b": 4,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 989994,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 1,
+            "b": 10,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 9199910,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 10,
+            "b": 7,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 9109997,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 11,
+            "b": 10,
+            "t": 25,
+            "h": 350,
+            "material": "brick",
+            "type": "simple",
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "uid": 91199910,
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0
+        },
+        {
+            "a": 5,
+            "b": 11,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 9599911,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 11,
+            "b": 8,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 9119998,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 13,
+            "b": 8,
+            "t": 25,
+            "h": 350,
+            "material": "brick",
+            "type": "simple",
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "uid": 9139998,
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0
+        },
+        {
+            "a": 3,
+            "b": 13,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 9399913,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 15,
+            "b": 11,
+            "t": 25,
+            "h": 350,
+            "material": "brick",
+            "type": "simple",
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "uid": 91599911,
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0
+        },
+        {
+            "a": 13,
+            "b": 15,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 91399915,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        },
+        {
+            "a": 15,
+            "b": 2,
+            "h": 350,
+            "material": "brick",
+            "t": 25,
+            "uid": 9159992,
+            "insideFinish": "stucco_1",
+            "outsideFinish": "brick_1",
+            "UVValue": 0,
+            "volume": 0,
+            "exterior": true,
+            "partyWall": false,
+            "volumeWhitoutCavities": 0,
+            "type": "simple"
+        }
+    ],
+    "slabs": [
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": -387.5,
+                        "y": -287.5
+                    },
+                    {
+                        "x": -165,
+                        "y": -287.5
+                    },
+                    {
+                        "x": -165,
+                        "y": -12
+                    },
+                    {
+                        "x": -387.5,
+                        "y": -12
+                    }
+                ]
+            },
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": -140,
+                        "y": -287.5
+                    },
+                    {
+                        "x": 140,
+                        "y": -287.5
+                    },
+                    {
+                        "x": 140,
+                        "y": -12
+                    },
+                    {
+                        "x": -140,
+                        "y": -12
+                    }
+                ]
+            },
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": 165,
+                        "y": -287.5
+                    },
+                    {
+                        "x": 387.51,
+                        "y": -287.5
+                    },
+                    {
+                        "x": 387.69,
+                        "y": -12
+                    },
+                    {
+                        "x": 165,
+                        "y": -12
+                    }
+                ]
+            },
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": -387.5,
+                        "y": 13
+                    },
+                    {
+                        "x": -165,
+                        "y": 13
+                    },
+                    {
+                        "x": -165,
+                        "y": 287.5
+                    },
+                    {
+                        "x": -387.5,
+                        "y": 287.5
+                    }
+                ]
+            },
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": -140,
+                        "y": 13
+                    },
+                    {
+                        "x": 140,
+                        "y": 13
+                    },
+                    {
+                        "x": 140,
+                        "y": 287.5
+                    },
+                    {
+                        "x": -140,
+                        "y": 287.5
+                    }
+                ]
+            },
+            {
+                "thickness": 12,
+                "material": "parquet_1",
+                "name": "Room",
+                "points": [
+                    {
+                        "x": 165,
+                        "y": 13
+                    },
+                    {
+                        "x": 387.69,
+                        "y": 13
+                    },
+                    {
+                        "x": 387.51,
+                        "y": 287.5
+                    },
+                    {
+                        "x": 165,
+                        "y": 287.5
+                    }
+                ]
+            }
+        ],
+    "rooms": [],
+    "windows": [],
+    "doors": [],
+    "HVAC": [],
+    "lights": [],
+    "roofs": []
+}
